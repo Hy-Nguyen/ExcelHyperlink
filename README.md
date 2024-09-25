@@ -3,10 +3,10 @@
 
 # if that doesn't work try the following:
 
-`python3 -m venv venv
-source venv/bin/activate
-pip install openpyxl
-python script.py`
+`python3 -m venv venv`
+`source venv/bin/activate`
+`pip install openpyxl`
+`python script.py`
 
 # Variables to be changed:
 ### sheet1 = wb["Lists"]
